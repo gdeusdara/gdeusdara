@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 
-<p>Welcome to my github page! </br> I'm Guilherme Banci, Frontend Software Developer from <b>Sao Paulo, Brazil</b></p>
+<p>Welcome to my github page! </br> I'm Guilherme Banci, Frontend Software Engineer from <b>Sao Paulo, Brazil</b></p>
 
 <h3>Tools I'm using</h3>
 
